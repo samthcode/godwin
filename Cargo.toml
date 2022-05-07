@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "godwin-core",
+    "godwin-tui"
+]
