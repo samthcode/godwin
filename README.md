@@ -18,16 +18,16 @@ This project was made based on some grievances I had with (Neo)Vim, but with a l
 
 ## Goals of this project
 
-[ ] Multi-cursor support out-of-the-box
+- [ ] Multi-cursor support out-of-the-box
 
-[ ] Keymap documentation to help you while writing commands
+- [ ] Keymap documentation to help you while writing commands
 
-[ ] A good starting point out of the box which can be easily expanded on
+- [ ] A good starting point out of the box which can be easily expanded on
 
-[ ] Easy and beautiful theming for all tastes
+- [ ] Easy and beautiful theming for all tastes
 
-[ ] Easy config via a `config.toml` file
+- [ ] Easy config via a `config.toml` file
 
-[ ] Robust plugin support (this will be one of the later goals of this project)
+- [ ] Robust plugin support (this will be one of the later goals of this project)
 
-[ ] Builtin lsp support via treesitter (another later goal)
+- [ ] Builtin lsp support via treesitter (another later goal)
